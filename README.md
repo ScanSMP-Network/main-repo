@@ -2,7 +2,16 @@
 
 ![Proof HTML](https://github.com/ScanSMP-Network/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Welcome to ScanSMP's Github
+This repository will be used to add the sources our server use, if we don't want to share a source in this github page, you can find it in game
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+The server ip is: mc.scanash.com , it has anti-ddos security and an anticheat, cheating is not allowed
+
+Server Rules:
+No griefing
+No duping
+No cheating
+No exploiting
+No Harrasment
+No Bullying
+Have a friendly chat for everyone, do not be homophobic or talk about themes that you know are wrong to talk about.
